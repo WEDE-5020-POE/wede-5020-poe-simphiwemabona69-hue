@@ -13,6 +13,11 @@ Max temp tattoo shop is a small,locally owned bussiness passionate about providi
  Vision:
  Our vision is to become a popular temporary tattoo brand known for creativity without the commitment of permanent body art.
 
+ Target auidence:
+ Young adults
+ Tourists
+ Event attendees
+
 
 ## Website Goals and Objectives
 The main goal of the website is to help expand the brand's online presence to attract customers.

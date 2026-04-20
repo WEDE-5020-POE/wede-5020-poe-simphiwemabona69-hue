@@ -7,6 +7,11 @@ Max temporary tattoo shop
 
 ## Project Overview
 Max temp tattoo shop is a small,locally owned bussiness passionate about providing safe,high-quality temporary tattoos for both young and old.Our goal is to give you the freedom to explore body art without the commitment of a permanent tattoo.
+ Mission:
+ Our mission is to inspire confidence and creativity by offering artistic temporary tattoos that allows people to express themselves creatively without the commitment of permanent body art .
+
+ Vision:
+ Our vision is to become a popular temporary tattoo brand known for creativity without the commitment of permanent body art.
 
 
 ## Website Goals and Objectives
@@ -22,6 +27,8 @@ Booking or event requests
 Daily/montly sales revenue
 Social media engagement
 Number of customers served
+
+ 
 
 
 
